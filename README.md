@@ -7,10 +7,10 @@ The **Traffic Congestion Management System (TCMS)** is an intelligent traffic li
 
 ## 📷 Screenshots
 **Vehicle Detection Output:**
-![Detection Example](docs/detection_output.png)
+![Detection Example](detection_output.png)
 
 **Simulation GUI:**
-![Simulation GUI](docs/gui_interface.png)
+![Simulation GUI](gui_interface.png)
 
 
 ## 🚀 Features
